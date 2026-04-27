@@ -41,5 +41,4 @@ The capstone project is titled **Autonomous Maintenance Agent for Smart Factory 
 
 ## Portfolio Goal
 
-The goal of this portfolio is to present my coursework in a clean, organized, and professional format. It shows my progress through the course and documents the major assignments, labs, and projects completed for ITAI 3377.# Oscar-Cortez-ITAI-3377-Portfolio
-Portfolio repository for ITAI 3377 coursework, including assignments, labs, midterm work, and capstone project documentation.
+The goal of this portfolio is to present my coursework in a clean, organized, and professional format. It shows my progress through the course and documents the major assignments, labs, and projects completed for ITAI 3377.
